@@ -1,6 +1,6 @@
 # GCN-Conv
 
-This repo provides the C source code for the GCN convolution layer based on PyG implementation. 
+This repo provides the C source code for the GCN convolution layer based on [PyG](https://github.com/rusty1s/pytorch_geometric) implementation. 
 
 The implementation is evaluated on 3 popular citation graph benchmarks: CORA, CiteSeer, and PubMed.
 
